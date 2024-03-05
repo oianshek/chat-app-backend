@@ -1,1 +1,1 @@
-# Template for FastAPI app.
+# API for simple chat application.
